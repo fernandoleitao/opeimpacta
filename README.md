@@ -3,7 +3,7 @@
 ## Integrantes
 
 * Allan
-* Fernando
+* Fernando Nunes
 * Giovannni
 * Renato
 * Thais
